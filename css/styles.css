@@ -1,0 +1,46 @@
+.jumbotron{
+    background-color: pink;
+    height:100px;
+    text-align:center;
+    padding:20px;
+}
+.nav{
+    display:center;
+    height:50px;
+    background-color:lightpink;
+    text-align:center;
+    padding:15px;
+}
+.headerImage{
+    background-image:url("..//images/header\ image.jpeg");
+    width:1500px;
+    height: 800px;
+}
+.gbg{
+    text-align:center;
+}
+.gbg img{
+    display:center;
+    width: 1000px;
+}
+.bk{
+    text-align:center;
+}
+.bk img{
+    display:center;
+    width:1000px;
+}
+.jeju{
+    text-align:center;
+}
+.jeju img{
+    display:center;
+    width:1000px;
+}
+.hangang{
+    text-align:center;
+}
+.hangang img{
+    width:1000px;
+    display:center;
+}
